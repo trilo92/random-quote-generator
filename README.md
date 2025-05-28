@@ -1,2 +1,28 @@
-# random-quote-generator
-A simple and responsive "Quote of the Day" web app built with HTML, CSS, and JavaScript. It displays a random inspirational quote on page load and with each button click.
+# Quote of the Day
+
+A minimalist and responsive web app that displays a random inspirational quote. Built using HTML, CSS, and vanilla JavaScript — perfect for beginners.
+
+## 🚀 Features
+- Random quote displayed on load and on button click
+- Clean and modern layout
+- No external libraries or APIs
+- Fully responsive
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## 📷 Screenshot
+![screenshot](screenshot.png)
+
+## 📡 Live Demo
+[View it on GitHub Pages](https://yourusername.github.io/quote-of-the-day)
+
+## 🔧 How to Use
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Or deploy it using GitHub Pages
+
+## 📝 License
+MIT
