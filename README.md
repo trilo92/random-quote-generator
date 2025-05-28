@@ -13,11 +13,6 @@ A minimalist and responsive web app that displays a random inspirational quote. 
 - CSS3
 - JavaScript (ES6)
 
-## 📷 Screenshot
-![screenshot](screenshot.png)
-
-## 📡 Live Demo
-[View it on GitHub Pages](https://yourusername.github.io/quote-of-the-day)
 
 ## 🔧 How to Use
 1. Clone the repository
